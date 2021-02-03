@@ -1,0 +1,81 @@
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe.config
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\bin\Debug\WpfLayout.pdb
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csprojResolveAssemblyReference.cache
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\MainWindow.baml
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\MainWindow.g.cs
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\App.g.cs
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\WpfLayout_MarkupCompile.cache
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\WpfLayout.g.resources
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\WpfLayout.Properties.Resources.resources
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.GenerateResource.Cache
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\WpfLayout.exe
+C:\Users\Pau\Documents\Visual Studio 2012\Projects\WpfLayout\WpfLayout\obj\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe.config
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.exe
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csprojResolveAssemblyReference.cache
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\MainWindow.baml
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\MainWindow.g.cs
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\App.g.cs
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout_MarkupCompile.cache
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.g.resources
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.Properties.Resources.resources
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.GenerateResource.Cache
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe.config
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.exe
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csprojResolveAssemblyReference.cache
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\MainWindow.baml
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\MainWindow.g.cs
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\App.g.cs
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout_MarkupCompile.cache
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.g.resources
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.Properties.Resources.resources
+C:\Users\oguz_zr\Desktop\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.GenerateResource.Cache
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe.config
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\bin\Debug\WpfLayout.pdb
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csprojResolveAssemblyReference.cache
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\MainWindow.baml
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\MainWindow.g.cs
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\App.g.cs
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout_MarkupCompile.cache
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.g.resources
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.Properties.Resources.resources
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.GenerateResource.Cache
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.CoreCompileInputs.cache
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.exe
+D:\ogu\Yeni klasör\c# -2-\WpfLayout\WpfLayout\WpfLayout\obj\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe.config
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\bin\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csprojResolveAssemblyReference.cache
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\MainWindow.baml
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\MainWindow.g.cs
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\App.g.cs
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\WpfLayout_MarkupCompile.cache
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\WpfLayout.g.resources
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\WpfLayout.Properties.Resources.resources
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.GenerateResource.Cache
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.CoreCompileInputs.cache
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\WpfLayout.exe
+C:\Users\oguz_zr\Desktop\WpfLayout\WpfLayout\obj\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe.config
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\bin\Debug\WpfLayout.exe
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\bin\Debug\WpfLayout.pdb
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csprojResolveAssemblyReference.cache
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\MainWindow.baml
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\MainWindow.g.cs
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\App.g.cs
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\WpfLayout_MarkupCompile.cache
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\WpfLayout.g.resources
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\WpfLayout.Properties.Resources.resources
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.GenerateResource.Cache
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\WpfLayout.csproj.CoreCompileInputs.cache
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\WpfLayout.exe
+C:\Users\oguz_zr\Desktop\sonra incelenecekler\WpfLayout\WpfLayout\obj\Debug\WpfLayout.pdb
